@@ -28,6 +28,11 @@ const items = [
     altText: "Yellowstone National Park, United States",
     caption: "Yellowstone National Park, United States",
   },
+  {
+    src: require("assets/img/bg5.jpg").default,
+    altText: "Trees",
+    caption: "Tree road",
+  },
 ];
 
 function CarouselSection() {
