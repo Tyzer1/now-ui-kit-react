@@ -6,6 +6,7 @@ import React from "react";
 
 // core components
 import IndexNavbar from "components/Navbars/IndexNavbar.js";
+import ExamplesNavbar from "components/Navbars/ExamplesNavbar.js";
 import IndexHeader from "components/Headers/IndexHeader.js";
 import DarkFooter from "components/Footers/DarkFooter.js";
 
@@ -40,6 +41,7 @@ function Index() {
   return (
     <>
       <IndexNavbar />
+      {/* <ExamplesNavbar/> */}
       <div className="wrapper">
         <IndexHeader />
         <div className="main">

@@ -122,7 +122,7 @@ function IndexNavbar() {
                   </DropdownItem>
                 </DropdownMenu>
               </UncontrolledDropdown>
-              <NavItem>
+              {/* <NavItem>
                 <Button
                   className="nav-link btn-neutral"
                   color="info"
@@ -136,7 +136,7 @@ function IndexNavbar() {
                 <UncontrolledTooltip target="#upgrade-to-pro">
                   Cooming soon!
                 </UncontrolledTooltip>
-              </NavItem>
+              </NavItem> */}
               <NavItem>
                 <NavLink
                   href="https://twitter.com/CreativeTim?ref=creativetim"
